@@ -20,6 +20,9 @@ A voting ensemble, also known as a voting classifier or voting regressor, is an 
 
 ![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph](https://github.com/dame-cell/ensemble-techniques/assets/122996026/d49decad-46fd-45aa-a690-0d14dd7da54e)
 
+## here is the link to the code
+
+
 
 ## Stacking: 
 * Stacking is a technique that involves combining the predictions of multiple models using a meta-model. The meta-model takes the predictions of the individual models as input and produces a final prediction.
