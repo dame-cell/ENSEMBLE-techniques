@@ -16,6 +16,7 @@ A voting ensemble, also known as a voting classifier or voting regressor, is an 
 * Regression: The ensemble model outputs the average or weighted average of the predicted values from the individual models. The weights can be assigned based on the performance or expertise of each model.
 
 * The advantage of using a voting ensemble is that it can often improve the overall accuracy and robustness of predictions compared to individual models. It helps to leverage the diverse strengths of different models and mitigate the impact of potential weaknesses.
+* 
 ![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph](https://github.com/dame-cell/ENSEMBLE-techniques/assets/122996026/f465358c-93d3-4bab-afa9-50a0dda20df7)
 
 
@@ -32,6 +33,7 @@ A voting ensemble, also known as a voting classifier or voting regressor, is an 
 * Regression: In regression tasks, the stacking ensemble combines the predictions of the base models to train a meta-model that produces the final predicted values. Similar to classification, the base models predict the values for the training instances, and these predictions are used as features for the meta-model. The meta-model, often a regression model such as linear regression, takes the base models' predictions as input and learns to make the final regression predictions.
 
 * The advantage of using stacking is that it allows the ensemble to capture the strengths of individual base models and create a more powerful and accurate meta-model. By leveraging the diversity of the base models, stacking can often improve the predictive performance and generalization of the ensemble.
+* 
 ![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (2)](https://github.com/dame-cell/ENSEMBLE-techniques/assets/122996026/9b931da3-dad7-47a3-bb97-1f439368b7b9)
 
 
@@ -80,6 +82,7 @@ After training a model using bagging, the output is an ensemble of multiple mode
 * LightGBM (Light Gradient Boosting Machine): LightGBM is another optimized implementation of Gradient Boosting that focuses on achieving faster training speed and lower memory usage. It utilizes histogram-based algorithms and features like leaf-wise tree growth and gradient-based one-sided sampling. LightGBM is often preferred for large-scale datasets and real-time applications.
 
 * CatBoost: CatBoost is a boosting algorithm that is designed to handle categorical features effectively. It automatically handles categorical variables by using various encoding techniques and is robust to missing values. CatBoost also incorporates advanced regularization techniques and provides good performance out of the box.
+* 
 
 ![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (4)](https://github.com/dame-cell/ENSEMBLE-techniques/assets/122996026/f2c36221-cc9e-4225-ab4f-8c7e6bba8c80)
 
