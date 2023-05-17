@@ -33,7 +33,7 @@ A voting ensemble, also known as a voting classifier or voting regressor, is an 
 * Regression: In regression tasks, the stacking ensemble combines the predictions of the base models to train a meta-model that produces the final predicted values. Similar to classification, the base models predict the values for the training instances, and these predictions are used as features for the meta-model. The meta-model, often a regression model such as linear regression, takes the base models' predictions as input and learns to make the final regression predictions.
 
 * The advantage of using stacking is that it allows the ensemble to capture the strengths of individual base models and create a more powerful and accurate meta-model. By leveraging the diversity of the base models, stacking can often improve the predictive performance and generalization of the ensemble.
-* 
+
 ![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (2)](https://github.com/dame-cell/ENSEMBLE-techniques/assets/122996026/9b931da3-dad7-47a3-bb97-1f439368b7b9)
 
 
@@ -52,8 +52,8 @@ After training a model using bagging, the output is an ensemble of multiple mode
 
 ** SOME ALGORTHIMS FOR BAGGING 
 
-* Random Forest: Random Forest is a bagging algorithm that combines multiple decision trees to make predictions. Each decision tree is trained on a random subset of the training data, and the final prediction is obtained by aggregating the predictions of individual trees, typically using majority voting for classification or averaging for regression. Random Forest also introduces randomness in the feature selection process, 
-
+* Random Forest: Random Forest is a bagging algorithm that combines multiple decision trees to make predictions. Each decision tree is trained on a random subset of the training data, and the final prediction is obtained by aggregating the predictions of individual trees, typically using majority voting for classification or averaging for regression. Random Forest also introduces randomness in the feature selection process,
+*  
 ![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (3)](https://github.com/dame-cell/ENSEMBLE-techniques/assets/122996026/e2fd5244-6b5e-4a69-bcd8-0c2c81f0bafe)
 
 
