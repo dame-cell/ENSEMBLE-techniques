@@ -84,6 +84,6 @@ After training a model using bagging, the output is an ensemble of multiple mode
 
 * CatBoost: CatBoost is a boosting algorithm that is designed to handle categorical features effectively. It automatically handles categorical variables by using various encoding techniques and is robust to missing values. CatBoost also incorporates advanced regularization techniques and provides good performance out of the box.
 * 
-![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (3)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/1dcfbb20-eb85-404b-a655-2027482960cc)
+![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (4)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/e6a05589-888a-416a-a245-8df3c72e31f6)
 
 
