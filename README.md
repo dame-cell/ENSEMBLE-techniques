@@ -55,7 +55,7 @@ After training a model using bagging, the output is an ensemble of multiple mode
 
 * Random Forest: Random Forest is a bagging algorithm that combines multiple decision trees to make predictions. Each decision tree is trained on a random subset of the training data, and the final prediction is obtained by aggregating the predictions of individual trees, typically using majority voting for classification or averaging for regression. Random Forest also introduces randomness in the feature selection process,
 *  
-![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (2)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/0e80868f-de7b-42a0-8b0f-1fd1cb0ce480)
+![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (3)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/1dcfbb20-eb85-404b-a655-2027482960cc)
 
 
 ## Boosting:
