@@ -4,7 +4,7 @@ Ensemble techniques are a type of machine learning approach that involves combin
 ![ensemblepng](https://github.com/dame-cell/ensemble-techniques/assets/122996026/11be2b2b-3d18-43c1-a43a-2c0af6e6bd45)
 
 ## Types of ensemble learning :
-![DEC](https://github.com/dame-cell/ensemble-techniques/assets/122996026/50ca1e58-83cb-4099-9394-f082d0ea3a6a)
+![Blue and Purple Casual Corporate App Development Startup Mind Map Graph](https://github.com/dame-cell/ensemble-techniques/assets/122996026/d1d93320-568a-4a58-93a2-139ab04c0fcc)
 
 
 ## VOTING ENSEMBLE 
@@ -18,7 +18,7 @@ A voting ensemble, also known as a voting classifier or voting regressor, is an 
 
 * The advantage of using a voting ensemble is that it can often improve the overall accuracy and robustness of predictions compared to individual models. It helps to leverage the diverse strengths of different models and mitigate the impact of potential weaknesses.
 
-![DEC (1)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/de637a03-1da6-4a3c-a200-1b7552ce1b51)
+![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph](https://github.com/dame-cell/ensemble-techniques/assets/122996026/d49decad-46fd-45aa-a690-0d14dd7da54e)
 
 
 ## Stacking: 
@@ -35,7 +35,7 @@ A voting ensemble, also known as a voting classifier or voting regressor, is an 
 
 * The advantage of using stacking is that it allows the ensemble to capture the strengths of individual base models and create a more powerful and accurate meta-model. By leveraging the diversity of the base models, stacking can often improve the predictive performance and generalization of the ensemble.
 
-![DEC (2)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/a4c64246-2e77-4690-87ba-73fb6b84ecd8)
+![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (1)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/a8f21032-e907-466b-846f-37d3860ec943)
 
 
 ## BAGGING:
@@ -55,7 +55,7 @@ After training a model using bagging, the output is an ensemble of multiple mode
 
 * Random Forest: Random Forest is a bagging algorithm that combines multiple decision trees to make predictions. Each decision tree is trained on a random subset of the training data, and the final prediction is obtained by aggregating the predictions of individual trees, typically using majority voting for classification or averaging for regression. Random Forest also introduces randomness in the feature selection process,
 *  
-![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (3)](https://github.com/dame-cell/ENSEMBLE-techniques/assets/122996026/e2fd5244-6b5e-4a69-bcd8-0c2c81f0bafe)
+![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (2)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/0e80868f-de7b-42a0-8b0f-1fd1cb0ce480)
 
 
 ## Boosting:
@@ -84,7 +84,6 @@ After training a model using bagging, the output is an ensemble of multiple mode
 
 * CatBoost: CatBoost is a boosting algorithm that is designed to handle categorical features effectively. It automatically handles categorical variables by using various encoding techniques and is robust to missing values. CatBoost also incorporates advanced regularization techniques and provides good performance out of the box.
 * 
-
-![DEC (3)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/cfdce2f9-2fdb-4865-bc33-f0e7704530c0)
+![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph (3)](https://github.com/dame-cell/ensemble-techniques/assets/122996026/1dcfbb20-eb85-404b-a655-2027482960cc)
 
 
