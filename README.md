@@ -21,6 +21,7 @@ A voting ensemble, also known as a voting classifier or voting regressor, is an 
 ![Dark Green and Light Blue Modern Mind Map and Brainstorm Graph](https://github.com/dame-cell/ensemble-techniques/assets/122996026/d49decad-46fd-45aa-a690-0d14dd7da54e)
 
 ## here is the link to the code
+[Link to Voting Ensemble Notebook](voting-ensemble.ipynb)
 
 
 
